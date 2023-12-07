@@ -35,7 +35,11 @@ h1{
  }
  
  .box:hover{
+     color: aqua;
      background-color: rgb(255, 224, 167);
+     border: 5px dashed rgb(195, 0, 255);
+
+    box-shadow: 25px 35px 20px black;
  }
  
  a{
