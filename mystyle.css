@@ -31,7 +31,7 @@ h1{
      vertical-align: middle;
      border: 5px dashed rgb(255, 153, 0);
      padding-top: 10px;
-     margin: 50% 25px;
+     margin: 50px 25px;
  }
  
  .box:hover{
@@ -44,4 +44,8 @@ h1{
  
  a:link{
      color:aqua;
+ }
+
+ ul{
+    list-style: square inside url('https://media.giphy.com/media/OiC5BKaPVLl60/giphy.gif');
  }
